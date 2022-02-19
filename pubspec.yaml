@@ -1,0 +1,75 @@
+name: flutter_app
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher:
+
+  cupertino_icons: ^1.0.2
+
+  google_maps_flutter: ^2.0.6
+
+  geolocator: ^7.0.3
+
+  geocoding: ^2.0.0
+
+  flutter_polyline_points: ^1.0.0
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter: 
+  uses-material-design: true
+  assets:
+   - assets/fonts/fab.jpeg
+
+  fonts:
+    - family: SanFrancisco
+      fonts:
+        - asset: assets/fonts/SF-Pro-Display-Regular.otf
+        - asset: assets/fonts/SF-Pro-Display-Bold.otf
+          weight: 700
+        - asset: assets/fonts/SF-Pro-Display-Light.otf
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
